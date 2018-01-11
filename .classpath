@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Article/|data/" kind="src" path="Pakage"/>
+	<classpathentry kind="src" path="Source"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/commons-io-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/commons-io-2.5-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/commons-logging-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/jmf.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/mp3plugin.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/ws-commons-util-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/xmlrpc-client-3.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/xmlrpc-common-3.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/xmlrpc-server-3.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/edu.mit.jwi_2.4.0_jdk.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/JTattoo.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/liquidlnf.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/学习/综合课程实践-17夏/Bgoo_Ver2.0/Jar/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
